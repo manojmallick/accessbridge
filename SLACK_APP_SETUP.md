@@ -6,7 +6,7 @@
 2. Click **Create New App**
 3. Choose **From an app manifest**
 4. Select your test workspace
-5. Paste the contents of `@/Users/manojmallick/Downloads/slack project/accessbridge/manifest.json`
+5. Paste the contents of `@./manifest.json`
 6. Click **Next**, then **Create**
 
 ## Step 2: Get Credentials

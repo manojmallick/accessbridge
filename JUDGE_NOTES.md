@@ -11,7 +11,7 @@
 ## How to Verify Locally
 
 ```bash
-cd "/Users/manojmallick/Downloads/slack project/accessbridge"
+cd "."
 npm install
 npm run test:simplify
 npm run test:describe
