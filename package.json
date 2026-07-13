@@ -1,0 +1,26 @@
+{
+  "name": "accessbridge",
+  "version": "1.0.0",
+  "description": "Plain language translator for people with disabilities inside Slack",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test:simplify": "node scripts/test-simplify.js",
+    "test:describe": "node scripts/test-describe.js",
+    "test:acronym": "node scripts/test-acronym.js",
+    "test:ai": "node scripts/test-ai-simplify.js",
+    "tools": "node scripts/list-tools.js",
+    "verify": "node scripts/verify.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@slack/bolt": "^3.22.0",
+    "dotenv": "^16.4.5",
+    "zod": "^3.23.8"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}

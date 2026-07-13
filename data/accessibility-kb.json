@@ -1,0 +1,137 @@
+{
+  "wcag": {
+    "term": "WCAG",
+    "definition": "Web Content Accessibility Guidelines. A set of international standards that explain how to make web content easier to use for people with disabilities.",
+    "simple": "Rules that help websites and apps work for everyone, including people who cannot see, hear, or use a mouse."
+  },
+  "alt text": {
+    "term": "alt text",
+    "definition": "Alternative text that describes an image for people who cannot see it.",
+    "simple": "A short written description of a picture so screen readers can read it aloud."
+  },
+  "screen reader": {
+    "term": "screen reader",
+    "definition": "Software that reads screen content out loud or converts it to braille for blind or low-vision users.",
+    "simple": "A program that reads what is on the screen so blind people can use a computer."
+  },
+  "dyslexia": {
+    "term": "dyslexia",
+    "definition": "A learning difference that makes reading, spelling, and writing more difficult.",
+    "simple": "A condition that makes reading and spelling harder for some people."
+  },
+  "cognitive disability": {
+    "term": "cognitive disability",
+    "definition": "A disability that affects thinking, memory, attention, or learning.",
+    "simple": "A condition that can make it harder to think, remember, focus, or learn new things."
+  },
+  "plain language": {
+    "term": "plain language",
+    "definition": "Writing that is easy to read and understand the first time.",
+    "simple": "Words written in a simple way so most people can understand quickly."
+  },
+  "accommodation": {
+    "term": "accommodation",
+    "definition": "A change that helps a person with a disability do their job or access information.",
+    "simple": "A helpful change that makes work or information easier for someone with a disability."
+  },
+  "ada": {
+    "term": "ADA",
+    "definition": "Americans with Disabilities Act. A United States law that protects people with disabilities from discrimination.",
+    "simple": "A US law that says people with disabilities should have the same chances as everyone else."
+  },
+  "section 508": {
+    "term": "Section 508",
+    "definition": "A US federal law requiring government digital tools to be accessible to people with disabilities.",
+    "simple": "A rule that says government websites and software must work for people with disabilities."
+  },
+  "neurodivergent": {
+    "term": "neurodivergent",
+    "definition": "People whose brains work differently in ways such as autism, ADHD, or dyslexia.",
+    "simple": "People whose brains work differently, like those with autism, ADHD, or dyslexia."
+  },
+  "assistive technology": {
+    "term": "assistive technology",
+    "definition": "Tools or software that help people with disabilities do everyday tasks.",
+    "simple": "Tools or apps that help people with disabilities do everyday tasks."
+  },
+  "cognitive load": {
+    "term": "cognitive load",
+    "definition": "The amount of mental effort needed to understand or complete a task.",
+    "simple": "How much thinking effort a task takes."
+  },
+  "accessible pdf": {
+    "term": "accessible PDF",
+    "definition": "A PDF document that can be read by screen readers and used by people with disabilities.",
+    "simple": "A PDF that screen readers can read and people with disabilities can use."
+  },
+  "color contrast": {
+    "term": "color contrast",
+    "definition": "The difference in brightness between text and background, which affects readability.",
+    "simple": "How easy it is to see text against its background."
+  },
+  "keyboard navigation": {
+    "term": "keyboard navigation",
+    "definition": "Using a keyboard instead of a mouse to move through a website or app.",
+    "simple": "Moving through a website or app using only the keyboard."
+  },
+  "focus indicator": {
+    "term": "focus indicator",
+    "definition": "A visible outline that shows which element on the screen is currently selected.",
+    "simple": "The highlight that shows which button or field is currently selected."
+  },
+  "caption": {
+    "term": "caption",
+    "definition": "Text that appears on screen with video or audio to show what is being said.",
+    "simple": "The words shown on screen for videos so deaf or hard-of-hearing people can follow along."
+  },
+  "transcript": {
+    "term": "transcript",
+    "definition": "A written version of spoken audio or video content.",
+    "simple": "The written text of what was said in a video or meeting."
+  },
+  "universal design": {
+    "term": "universal design",
+    "definition": "Designing products and spaces so they work for the widest range of people, including those with disabilities.",
+    "simple": "Making things that work well for as many people as possible, including people with disabilities."
+  },
+  "inclusive design": {
+    "term": "inclusive design",
+    "definition": "Designing with the needs of people who are often excluded, such as people with disabilities.",
+    "simple": "Designing things so that people who are often left out can use them too."
+  },
+  "audio description": {
+    "term": "audio description",
+    "definition": "Spoken narration added to video to describe important visual details for blind viewers.",
+    "simple": "Extra spoken explanation in a video that tells blind viewers what is happening visually."
+  },
+  "disability disclosure": {
+    "term": "disability disclosure",
+    "definition": "When a person tells their employer or team that they have a disability.",
+    "simple": "When someone tells their team or employer that they have a disability."
+  },
+  "reasonable accommodation": {
+    "term": "reasonable accommodation",
+    "definition": "A workplace change that helps an employee with a disability do their job, as long as it does not cause major difficulty for the employer.",
+    "simple": "A workplace change that helps an employee with a disability do their job."
+  },
+  "screen magnifier": {
+    "term": "screen magnifier",
+    "definition": "Software that enlarges part of the screen for people with low vision.",
+    "simple": "Software that makes parts of the screen bigger for people with low vision."
+  },
+  "voice control": {
+    "term": "voice control",
+    "definition": "Software that lets someone control a computer or phone by speaking commands.",
+    "simple": "Using your voice to control a computer or phone instead of typing or clicking."
+  },
+  "closed caption": {
+    "term": "closed caption",
+    "definition": "Captions that can be turned on or off by the viewer.",
+    "simple": "Video subtitles that the viewer can turn on or off."
+  },
+  "open caption": {
+    "term": "open caption",
+    "definition": "Captions that are always visible on the video and cannot be turned off.",
+    "simple": "Video subtitles that are always shown and cannot be turned off."
+  }
+}
