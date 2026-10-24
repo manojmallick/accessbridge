@@ -137,4 +137,4 @@ Slack Bolt for JavaScript, Google Gemini API (optional), Model Context Protocol 
 
 ## License
 
-MIT (see `package.json`).
+MIT. See [LICENSE](LICENSE).
